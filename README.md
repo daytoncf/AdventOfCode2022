@@ -2,4 +2,4 @@
 These are my solutions to the Advent of Code 2022 challenges.
 
 # Motivation 🏃💨
-It's good practice for problem solving and I'm a sucker for festivity.
+It's good practice for problem solving and I'm a fan of festivity.
